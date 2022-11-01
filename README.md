@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lacy Saute.
 - 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning SQL, R, and Tableau.
+- 🌱 I’m currently enrolled in the Google Data Analytics Certificate cours, learning SQL, R, and Tableau.
 
 
 <!---
