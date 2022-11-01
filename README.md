@@ -3,7 +3,7 @@
 - Interested in learning more about data analytics
 - Enrolled in the Google Data Analytics course, and learning SQL, R, and Tableau
 
-### 📊 Data Projects & Portfolio
+### 📊 Projects & Portfolio
 - [SQL Portfolio](https://github.com/lsaute/SQL-Portfolio)
 - [Tableau Portfolio](https://public.tableau.com/app/profile/lacy.saute)
 - [Kaggle](https://www.kaggle.com/lacysaute)
