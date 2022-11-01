@@ -11,7 +11,7 @@
 
 ### 📌 Core Competencies
 - Tools: SQL, Excel, Jira Software & Service Management
-- Skills: Data Cleaning, Data Visualisation, Data Analysis
+- Skills: Data Cleaning, Data Visualization, Data Analysis
 
 ### 📖 Learning & Achievements
 - [Atlassian Certified in Managing Jira Projects for Cloud](https://www.certmetrics.com/atlassian/public/badge.aspx?i=30&t=c&d=2022-06-30&ci=AT00162996)
