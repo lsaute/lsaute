@@ -1,6 +1,5 @@
 ### 🌟 About Me
 - Employed as a client account manager also working in operations systems administration at a software development company
-- Interested in learning more about data analytics
 - Enrolled in the Google Data Analytics course, and learning SQL, R, and Tableau
 
 ### 📊 Projects & Portfolio
