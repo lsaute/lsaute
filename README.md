@@ -5,7 +5,6 @@
 ### 📊 Projects & Portfolio
 - [SQL Portfolio](https://github.com/lsaute/SQL-Portfolio)
 - [Tableau Portfolio](https://public.tableau.com/app/profile/lacy.saute)
-- [Kaggle](https://www.kaggle.com/lacysaute)
 - [LinkedIn](https://www.linkedin.com/in/lacy-saute/)
 
 ### 📌 Core Competencies
